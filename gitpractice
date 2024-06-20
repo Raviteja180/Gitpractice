@@ -3,6 +3,6 @@ this is the first line added
 
 this is the second line added
 
-this is line 6
+this is line 6--checking difference between stash and commit
 
 this is line 8 this is added to check pushing to remote another feature branch
