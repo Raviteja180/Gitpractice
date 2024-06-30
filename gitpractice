@@ -8,3 +8,5 @@ this is line 6--checking ---- between stash and commit @@@@@
 this is line 8 this is added to check pushing to remote another feature branch
 
 addinng new line
+
+adding new line to test how to revert particular file in commit
